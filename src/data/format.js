@@ -7,5 +7,5 @@ function number(num){
 }
 
 export default {
-    number
-}
+    number,
+};
