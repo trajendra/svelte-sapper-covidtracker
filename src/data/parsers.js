@@ -20,5 +20,5 @@ function usStats(data){
 }
 
 export default {
-    usStats
-}
+    usStats,
+};
